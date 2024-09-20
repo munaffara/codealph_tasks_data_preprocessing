@@ -1,0 +1,16 @@
+﻿Store,Month,Model,Units_Sold,Revenue
+Store_A,January,iPhone,10,10000
+Store_B,February,Samsung,,8500
+Store_C,March,OnePlus,12,
+Store_D,April,iPhone,,12000
+Store_E,May,Samsung,15,13500
+,,OnePlus,14,15000
+Store_G,July,iPhone,20,20000
+Store_H,,Samsung,18,18000
+Store_I,September,OnePlus,,17500
+Store_J,October,iPhone,22,22000
+,,,24,24000
+Store_M,December,OnePlus,26,
+Store_N,January,iPhone,,26000
+Store_O,February,Samsung,28,28000
+Store_P,,,30,30000
